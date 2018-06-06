@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "laravel/laradva",
+    "description": "The Laravel Framework Suit Dvajs.",
+    "keywords": ["framework", "laravel", "Dva"],
     "license": "MIT",
     "type": "project",
     "require": {
