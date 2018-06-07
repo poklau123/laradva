@@ -2,7 +2,7 @@ export default {
     entry: 'src/index.js',
     extraBabelPlugins: [
         "@babel/transform-runtime",
-        ["import", { libraryName: "antd", style: "css" }]
+        ["import", { libraryName: "antd", libraryDirectory: "es", style: "css" }]
     ],
     env: {
         development: {
